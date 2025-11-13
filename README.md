@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Shashank Poojary  
 - 🚀 Exploring performance, hardware, and game engine design through C++
-
